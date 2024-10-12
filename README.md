@@ -14,7 +14,7 @@
 
 ```javascript
 const Saimun_jd = {
-  pronouns: "Broken" | "Failure",
+  pronouns: "Vim" | "Arch",
   code: [C++, Python, Javascript, Rust, C#],
   tools: [Unity, React/React-Native, Redux, Node, Express, MongoDB, DirectX11, OpenGL],
   architecture: ["gamedev", "fullstack"],
