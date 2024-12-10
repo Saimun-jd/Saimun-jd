@@ -1,4 +1,4 @@
-<h2> Hi, I'm Imteaj Saimun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img src="https://github.com/user-attachments/assets/9128863b-e7bb-4268-883e-28d36ed3a3d0" width="200" height="100">
 
 ![17337958369082736854118907088821](https://github.com/user-attachments/assets/d0ab262e-0c82-4fd7-8e29-53cb2067916a)
 
