@@ -1,6 +1,9 @@
 <h2> Hi, I'm Imteaj Saimun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>CS Major at <a href="http://www.unb.br">Chittagong University of Engineering and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Self employed and part time freelancer at <a href="https://www.fiverr.com/">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+![17337958369082736854118907088821](https://github.com/user-attachments/assets/d0ab262e-0c82-4fd7-8e29-53cb2067916a)
+
+<p><em>CS Major at <a href="http://www.unb.br">Chittagong University of Engineering and Technology</a>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Self employed and part time freelancer at <a href="https://www.fiverr.com/">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Medium: Saimunjd](https://img.shields.io/badge/Saimunjd-black?logo=medium
@@ -24,10 +27,10 @@ const Saimun_jd = {
       'Tweaking frontend'
       'Real time database'
   ]
- challenge: "Currently making a realtime chat app using Redux-toolkit"
+ challenge: "Jeena hi toh ek challenge hey"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn about new technologies and teach people about ins and outs of coding and tech stuffs!</b> :)</em>
+<img src="https://github.com/user-attachments/assets/bf1c6db2-0b15-47bd-8956-11c132f71545" width="40"> <em><b>Don't know what I'm doing with life but this hobby development process and and little 🚬 keeps the life's top spinning🥏</b> :)</em>
 
 ---
