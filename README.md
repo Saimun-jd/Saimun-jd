@@ -18,16 +18,16 @@
 ```javascript
 const Saimun_jd = {
   pronouns: "Vim" | "Arch",
-  code: [C++, Python, Javascript, Rust, C#],
-  tools: [Unity, React/React-Native, Redux, Node, Express, MongoDB, DirectX11, OpenGL],
+  code: [C++, Python, Javascript/typescript, Rust, C#],
+  tools: [Unity, React/React-Native, Redux/ReactQuery, Prisma, Node, Express, MongoDB, Supabase/Firebase, Docker, DirectX11, OpenGL],
   architecture: ["gamedev", "fullstack"],
   interests: [
       'Low level development',
       'Game engine dev',
-      'Tweaking frontend'
-      'Real time database'
+      'Tweaking frontend/backend'
+      'Getting lost in the depth of statistics and data science'
   ]
- challenge: "Jeena hi toh ek challenge hey"
+ challenge: "Currently focusing on learning Transformers and llms"
 }
 ```
 
