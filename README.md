@@ -3,7 +3,7 @@
 ![17337958369082736854118907088821](https://github.com/user-attachments/assets/d0ab262e-0c82-4fd7-8e29-53cb2067916a)
 
 <p><em>CS Major at <a href="https://www.cuet.ac.bd">Chittagong University of Engineering and Technology</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Self employed open source contributor<a href="https://www.fiverr.com/">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Self employed open source contributor<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Medium: Saimunjd](https://img.shields.io/badge/Saimunjd-black?logo=medium
