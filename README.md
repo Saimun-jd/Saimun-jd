@@ -19,18 +19,19 @@
 const Saimun_jd = {
   pronouns: "Vim" | "Arch",
   code: [C++, Python, Javascript/typescript, Rust, C#],
-  tools: [Unity, React/React-Native, Redux/ReactQuery, Prisma, Node, Express, MongoDB, Supabase/Firebase, Docker, DirectX11, OpenGL],
-  architecture: ["gamedev", "fullstack"],
+  tools: [Unity, Automation, React/React-Native, Redux/ReactQuery, Prisma, Node, Express, MongoDB, Supabase/Firebase, Docker, DirectX11, OpenGL],
+  architecture: ["Automation","gamedev", "fullstack"],
   interests: [
       'Low level development',
+      'Mathematics',
+      'AI Automation',
       'Game engine dev',
-      'Tweaking frontend/backend'
-      'Getting lost in the depth of statistics and data science'
+      'Plugin Development'
   ]
- challenge: "Currently focusing on learning Transformers and llms"
+ challenge: "What is challenge but ambition"
 }
 ```
 
-<img src="https://github.com/user-attachments/assets/bf1c6db2-0b15-47bd-8956-11c132f71545" width="40"> <em><b>Don't know what I'm doing with life but this hobby development process and and little 🚬 keeps the life's top spinning🥏</b> :)</em>
+<img src="https://github.com/user-attachments/assets/bf1c6db2-0b15-47bd-8956-11c132f71545" width="40"> <em><b>The day I begin my quest, no one in this world will be able to stop me.</b> :)</em>
 
 ---
